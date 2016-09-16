@@ -1,5 +1,9 @@
 ---
 published: true
+layout: post
+comments: false
+description: What do you expect from a hubmle post?
+keywords: filler content
 ---
 ## First Post
 

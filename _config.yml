@@ -30,8 +30,8 @@ sass:
 # Author settings
 author:
   name     : "Austin Shirley"
-  job      : "job"
-  bio      : "short bio"
+  job      : "student at the University of Saskatchewan"
+  bio      : "Working on robotics and space projects to one day become a real engineer!"
   thumb    : /images/author.jpg
   email    : ausshir@gmail.com
   url      : http://ausshir.github.io

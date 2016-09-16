@@ -5,7 +5,6 @@ comments: false
 description: What do you expect from a hubmle post?
 keywords: filler content
 ---
-## First Post
 
 Hello World!
 

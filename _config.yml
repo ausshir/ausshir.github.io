@@ -2,8 +2,8 @@
 # SEO settings
 title: "Robo"
 title2: "bits" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
-keywords: "SEO, blog, web, minimalist, thinkspace, robotics, engineering"
+description: "Personal blog covering adventures in robotics development and more"
+keywords: "SEO, blog, web, thinkspace, robotics, engineering, student, DIY, electronics, engineering, space"
 url: http://ausshir.github.io # site url
 # baseurl: "" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
@@ -30,7 +30,7 @@ sass:
 # Author settings
 author:
   name     : "Austin Shirley"
-  job      : "student at USask
+  job      : "senior CME student at USask"
   bio      : "Working on robotics and space projects for the USST and a little in my free time too!"
   thumb    : /images/author.jpg
   email    : ausshir@gmail.com

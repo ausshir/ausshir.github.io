@@ -11,7 +11,7 @@ baseurl: null # apply null if repo name is something like username.github.io
 google_analytics: UA-84599606-1
 repo: http://github.com/ausshir/ausshir.github.io
 disqus_shortname: "ausshir"
-twitter_username: "ausstinshirley"
+twitter_username: "austinshirley"
 comments: false
 
 # Build settings

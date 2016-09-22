@@ -8,7 +8,7 @@ url: http://ausshir.github.io # site url
 # baseurl: "" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
+google_analytics: UA-84599606-1
 repo: http://github.com/ausshir/ausshir.github.io
 disqus_shortname: "ausshir"
 twitter_username: "ausstinshirley"
@@ -30,8 +30,8 @@ sass:
 # Author settings
 author:
   name     : "Austin Shirley"
-  job      : "student at the University of Saskatchewan"
-  bio      : "Working on robotics and space projects to one day become a real engineer!"
+  job      : "student at USask
+  bio      : "Working on robotics and space projects for the USST and a little in my free time too!"
   thumb    : /images/author.jpg
   email    : ausshir@gmail.com
   url      : http://ausshir.github.io

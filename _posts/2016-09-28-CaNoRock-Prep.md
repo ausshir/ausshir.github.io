@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Set Course for Andøya Space Center
 

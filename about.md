@@ -16,8 +16,7 @@ If you would like to learn more about the team, please visit us at http://usst.c
 
 Another major project is my Senior Design Project - Telltale HRV. We are just getting started and do not have a lot of news, but we hope to build an open device to change the coruse of research into animal stress and wellbeing in large-scale farming.
 
-
-[It's Me!]({{site.baseurl}}/assets/author.jpg)
+![]({{site.baseurl}}//austin.PNG)
 Thanks for checking in and I hope you find something here that is interesting!
 
 Cheers!!

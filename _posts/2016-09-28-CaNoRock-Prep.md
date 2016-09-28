@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+description: CaNoRock Part One
+keywords: 'CaNoRock, Norway, Andoya Space Center'
 ---
 ## Set Course for Andøya Space Center
 

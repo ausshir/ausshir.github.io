@@ -109,4 +109,10 @@ Upon further research, the museum was the [Ullensaker Museum](https://no.wikiped
 
 <img align="left" src="https://lh3.googleusercontent.com/re52xpIAWcrDzuAC5GZFQSdjLsFJ3x3Z0Dbd39xSxb0jhh6G5cCPBTj87AE_MQ67NyWl8u_q5Xo=w1920-h1080-no" alt="Did not expect to run into this in the dark" style="width:250px; padding:5px;"/>
 
+
+
+
+
+
+
 Up again early next day to catch the express train to town before flying out again!

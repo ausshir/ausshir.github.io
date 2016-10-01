@@ -104,3 +104,7 @@ A very uneventful customs desk and a train to the city closed for maintenance, w
 I think we're getting close!
 
 Upon further research, the museum was the [Ullensaker Museum](https://no.wikipedia.org/wiki/Ullensaker_museum), located on one of Norway's oldest Drill grounds, Little Square, and was built in 1740 - reopened as a museum in 2005. There is very little English information on this building so it would be great to check it out again in the light of day!
+
+<img align="right" src="https://plus.google.com/photos/photo/110896731679436922078/6325402418937921602" alt="Did not expect to run into this in the dark" style="width:250px; padding:5px;"/>
+
+<img align="left" src="https://plus.google.com/photos/photo/110896731679436922078/6325402416592977058" alt="Did not expect to run into this in the dark" style="width:250px; padding:5px;"/>

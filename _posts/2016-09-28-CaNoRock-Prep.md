@@ -103,4 +103,4 @@ Airlines pilots sure aren't afraid to pull serious G's on takeoff!
 A very uneventful customs desk and a train to the city closed for maintenance, we thought we'd be confined to our rooms for the remainder of the night. It turns out, the hotel was right next to some sort of military museum with some very interesting displays. Unfortunately, it was much too dark to take pictures without my Nokia 930 (all the more fitting in Scandavia). No rockets yet but
 I think we're getting close!
 
-Upon 
+Upon further research, the museum was the [Ullensaker Museum](https://no.wikipedia.org/wiki/Ullensaker_museum), located on one of Norway's oldest Drill grounds, Little Square, which was built in 1740. There is very little English information on this building so it would be great to check it out again in the light of day!

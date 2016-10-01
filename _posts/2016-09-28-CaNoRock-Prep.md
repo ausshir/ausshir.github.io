@@ -94,4 +94,13 @@ One of my flight bookings looked like this:
 *Was it worth it? Apart from the offline trip guides, probably not.. ;)*
 
 ### To the skies!
-After a lovely turboprop and 
+Despite a two hour delay due to A/C issues in the overseas Calgary-London flight, all
+connections seemd to meet up and I arrived in Oslo just in time! There were some lovely
+and interesting views from some of the flights, and there's even more to come. The Scaninavian
+Airlines pilots sure aren't afraid to pull serious G's on takeoff!
+
+### Oslo
+A very uneventful customs desk and a train to the city closed for maintenance, we thought we'd be confined to our rooms for the remainder of the night. It turns out, the hotel was right next to some sort of military museum with some very interesting displays. Unfortunately, it was much too dark to take pictures without my Nokia 930 (all the more fitting in Scandavia). No rockets yet but
+I think we're getting close!
+
+Upon 

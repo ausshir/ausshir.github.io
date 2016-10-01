@@ -22,7 +22,7 @@ projects. To make the most of my time I thought I'd try out the new Google Trips
 app, which just made it's official transition from Inbox to a standalone tool and
 [seems to be targeted directly at me](https://googleblog.blogspot.no/2016/09/see-more-plan-less-try-google-trips.html)!
 
-<img align="right" src="https://3.bp.blogspot.com/-ck_mwUQmsY4/V9x944vTcxI/AAAAAAAAS_A/gJDda7S3r1MNvpc6ipdcaYTULiu_Pf1vQCLcB/s1600/06_61_combo.png" alt="ME" style="width:200px; padding:5px;"/>
+<img align="right" src="https://3.bp.blogspot.com/-ck_mwUQmsY4/V9x944vTcxI/AAAAAAAAS_A/gJDda7S3r1MNvpc6ipdcaYTULiu_Pf1vQCLcB/s1600/06_61_combo.png" alt="ME" style="width:250px; padding:5px;"/>
 
 A very useful feature of Google Trips is the ability for it to scan metadata or
 schemas from your reservation emails. There is a vaguely standard format for This

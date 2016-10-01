@@ -4,15 +4,6 @@ layout: post
 description: CaNoRock Part One
 keywords: 'CaNoRock, Norway, Andoya Space Center'
 ---
----
-layout: post
-title: 'Off to Norway for CaNoRock'
-comments: true
-description: 'CaNoRock Trip Preparation and Travel'
-keywords: 'CaNoRock, Google Trips, Flights'
-published: false
----
-
 ## Off to CaNoRock
 For the a week between September 30 and October 8, 2016 I am attending an a student
 collaboration between Canada and Norway to build and test a research sounding rocket.

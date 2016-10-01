@@ -105,9 +105,9 @@ I think we're getting close!
 
 Upon further research, the museum was the [Ullensaker Museum](https://no.wikipedia.org/wiki/Ullensaker_museum), located on one of Norway's oldest Drill grounds, Little Square, and was built in 1740 - reopened as a museum in 2005. There is very little English information on this building so it would be great to check it out again in the light of day!
 
-<img align="right" src="https://lh3.googleusercontent.com/wO0AIhhXifJf-rWKydrMkpzvxrMm1Q6jjntEnSVr-NPiNWeM_k1S8R4rxyNnbEixR1Xq9F4Ds3g=w2048-h1365-no" alt="Did not expect to run into this in the dark" style="width:250px; padding:100px;"/>
+<img align="right" src="https://lh3.googleusercontent.com/wO0AIhhXifJf-rWKydrMkpzvxrMm1Q6jjntEnSVr-NPiNWeM_k1S8R4rxyNnbEixR1Xq9F4Ds3g=w2048-h1365-no" alt="Did not expect to run into this in the dark" style="width:250px; padding:5px;"/>
 
-<img align="left" src="https://lh3.googleusercontent.com/re52xpIAWcrDzuAC5GZFQSdjLsFJ3x3Z0Dbd39xSxb0jhh6G5cCPBTj87AE_MQ67NyWl8u_q5Xo=w1920-h1080-no" alt="Did not expect to run into this in the dark" style="width:250px; padding:100px;"/>
+<img align="left" src="https://lh3.googleusercontent.com/re52xpIAWcrDzuAC5GZFQSdjLsFJ3x3Z0Dbd39xSxb0jhh6G5cCPBTj87AE_MQ67NyWl8u_q5Xo=w1920-h1080-no" alt="Did not expect to run into this in the dark" style="width:250px; padding:5px;"/>
 
 
 

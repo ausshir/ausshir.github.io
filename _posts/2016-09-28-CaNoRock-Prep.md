@@ -103,11 +103,9 @@ Airlines pilots sure aren't afraid to pull serious G's on takeoff!
 
 <img align="left" src="https://lh3.googleusercontent.com/wO0AIhhXifJf-rWKydrMkpzvxrMm1Q6jjntEnSVr-NPiNWeM_k1S8R4rxyNnbEixR1Xq9F4Ds3g=w2048-h1365-no" alt="Did not expect to run into this in the dark" style="width:250px; padding:5px;"/>
 
-A very uneventful customs desk and a train to the city closed for maintenance, we thought we'd be confined to our rooms for the remainder of the night. It turns out, the hotel was right next to some sort of military museum with some very interesting displays. Unfortunately, it was much too dark to take pictures without my Nokia 930 (all the more fitting in Scandavia). No rockets yet but
-I think we're getting close!
+A very uneventful customs desk and a train to the city closed for maintenance, we thought we'd be confined to our rooms for the remainder of the night. It turns out, the hotel was right next to some sort of military museum with some very interesting displays. Unfortunately, it was much too dark to take any of my own pictures without a proper dedicated camera. No rockets yet but
+I think we're getting close! Early next morning we will head out to town and see what we can find before catching the plane to Tromso.
 
 <img align="left" src="https://lh3.googleusercontent.com/re52xpIAWcrDzuAC5GZFQSdjLsFJ3x3Z0Dbd39xSxb0jhh6G5cCPBTj87AE_MQ67NyWl8u_q5Xo=w1920-h1080-no" alt="Did not expect to run into this in the dark" style="width:250px; padding:5px;"/>
 
-Upon further research, the museum was the [Ullensaker Museum](https://no.wikipedia.org/wiki/Ullensaker_museum), located on one of Norway's oldest Drill grounds, Little Square, and was built in 1740 - reopened as a museum in 2005. There is very little English information on this building so it would be great to check it out again in the light of day!
-
-Up again early next day to catch the express train to town before flying out again!
+Upon further research, the museum was the [Ullensaker Museum](https://no.wikipedia.org/wiki/Ullensaker_museum), located on one of Norway's oldest Drill grounds, Little Square, and was built in 1740 - reopened as a museum in 2005. There is very little English language information on this building so it would be great to check it out again in the light of day!

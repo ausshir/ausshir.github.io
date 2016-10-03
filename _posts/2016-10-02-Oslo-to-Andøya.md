@@ -8,8 +8,8 @@ images:
   - name: babyfight.gif
     thumb: babyfight.gif
     text: The famous baby fighting statue
-  - name: humantower.jpg
-    thumb: humantower.jpg
+  - name: humantower.png
+    thumb: humantower.png
     text: The Monolith
 thumb: StableElements_vectorized-thumb.png
 text: The first image

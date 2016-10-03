@@ -6,7 +6,7 @@ keywords: 'CaNoRock, Norway, Andoya Space Center, Oslo'
 imgfolder: /assets/images/canorock
 images:
   - name: StableElements_vectorized.png
-thumb: StableElements_vectorized.png
+thumb: StableElements_vectorized-thumb.png
 text: The first image
 ---
 ## A Morning in Oslo

@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/lightbox-2.6.min.js"></script>
+<link href="/assets/css/lightbox.css" rel="stylesheet"/>
+
 <article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>

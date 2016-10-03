@@ -5,8 +5,8 @@ description: CaNoRock Part Two
 keywords: 'CaNoRock, Norway, Andoya Space Center, Oslo'
 imgfolder: /assets/images/canorock
 images:
-  - name: babyfighter-group.gif
-thumb: babyfighter-group.gif
+  - name: StableElements_vectorized.png
+thumb: StableElements_vectorized.png
 text: The first image
 ---
 ## A Morning in Oslo

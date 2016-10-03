@@ -5,8 +5,8 @@ description: CaNoRock Part Two
 keywords: 'CaNoRock, Norway, Andoya Space Center, Oslo'
 imgfolder: /assets/images/canorock
 images:
-  - name: usask_usask_black.png
-    thumb: usask_usask_black.png
+  - name: canorock-paper-rockets.jpg
+    thumb: canorock-paper-rockets.jpg
     text: The first image
 thumb: StableElements_vectorized-thumb.png
 text: The first image

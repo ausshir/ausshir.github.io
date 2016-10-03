@@ -3,7 +3,7 @@ published: true
 layout: post
 description: CaNoRock Part Two
 keywords: 'CaNoRock, Norway, Andoya Space Center, Oslo'
-imgfolder: /_posts/
+imgfolder: /_posts
 images:
   - name: babyfighter-group.gif
 thumb: babyfighter-group.gif

@@ -14,9 +14,9 @@ The trains were running bright and early! In fact, they were running exactly on 
 
 This train station had a very interetsing spot with a directional speaker that would whisper poetry to you. I haven't been able to figure out any details on this but I will be sure to ask one of the Oslo University students about it.
 
-<script src="/js/jquery-1.10.2.min.js"></script>
-<script src="/js/lightbox-2.6.min.js"></script>
-<link href="/css/lightbox.css" rel="stylesheet" />
+<script src="/assets/js/jquery-1.10.2.min.js"></script>
+<script src="/assets/js/lightbox-2.6.min.js"></script>
+<link href="/assets/css/lightbox.css" rel="stylesheet"/>
 
 {% include gal.html %}
 

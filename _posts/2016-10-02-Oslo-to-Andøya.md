@@ -3,6 +3,11 @@ published: true
 layout: post
 description: CaNoRock Part Two
 keywords: 'CaNoRock, Norway, Andoya Space Center, Oslo'
+imgfolder: /_posts/
+images:
+  - name: babyfighter-group.gif
+thumb: babyfighter-group.gif
+text: The first image
 ---
 ## A Morning in Oslo
 The trains were running bright and early! In fact, they were running exactly on time meaning we'd missed our intended one by a few seconds. Thankfully, the sevice happens every 20 minutes on Sunday mornings and every 10 minutes in the afternoon.
@@ -10,6 +15,8 @@ The trains were running bright and early! In fact, they were running exactly on 
 This train station had a very interetsing spot with a directional speaker that would whisper poetry to you. I haven't been able to figure out any details on this but I will be sure to ask one of the Oslo University students about it.
 
 <img align="right" src="https://github.com/ausshir/ausshir.github.io/raw/master/_posts/babyfighter-group.gif" alt="us vs babies" style="width:350px; padding:5px;"/>
+
+{% include gal.html %}
 
 Once in Oslo we walked around the downtown loosely according to one of my Google Trips tours. We were determined to see the [Vigeland Installation, also "Frognerparken"](https://en.wikipedia.org/wiki/Frogner_Park) at the historical Frogner Manor for their famous permanent sculpture installation created by Gustav Vigeland. This was planned and erected from the 1920's to 1930's and includes dozens of statues of people engaging in activivies like wrestling, hugging, stretching, and of course fighting off a mob of babies!
 

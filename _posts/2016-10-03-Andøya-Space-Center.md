@@ -19,7 +19,7 @@ images:
     text: The decidedly mediocre paper rocket
   - name: PaperRocketResults.jpg
     thumb: PaperRocketResults.jpg
-    text: Success and devistation. The best rocket was from the U of A.    
+    text: Success and devistation. The best rocket was from the U of A.
 ---
 ## The Andøya Space Center and NAROM
 The ASC was started off in 1962 with the Ferdinand I rocket, placing Norway 4th among countries to reach space. Today over 1200 rockets

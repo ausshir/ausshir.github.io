@@ -33,4 +33,4 @@ Once in Oslo we walked around the downtown loosely according to one of my Google
 ## Tromsø and Andøya
 Taking off from the Oslo Airport, the weather turned a bit sour and you could not see much of the ground. I was lucky to catch a glimpse as the terrain turned from Boreal forests to Tundra! Upon landing I was shuttled to inreasingly smaller aircraft and airports until arriving at the Space Center where we did a small tour, chatted with students from the University of Tromsø and Oslo. Time for bed for an early breakfast!
 
-{% include gal.html image="oslototromso.jpg" %}
+{% include gal.html image="oslototromso.gif" %}

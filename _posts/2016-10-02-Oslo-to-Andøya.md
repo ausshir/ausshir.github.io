@@ -14,6 +14,9 @@ images:
   - name: flytogettrain.jpg
     thumb: flytogettrain.jpg
     text: Flytoget Train Station at Oslo Airport
+  - name: oslototromso.gif
+    thumb: oslototromso.gif
+    text: Flyover of the Northern Norwegian Countryside
 ---
 ## A Morning in Oslo
 The trains were running bright and early! In fact, they were running exactly on time meaning we'd missed our intended one by a few seconds. Thankfully, the sevice happens every 20 minutes on Sunday mornings and every 10 minutes in the afternoon.
@@ -29,3 +32,5 @@ Once in Oslo we walked around the downtown loosely according to one of my Google
 
 ## Tromsø and Andøya
 Taking off from the Oslo Airport, the weather turned a bit sour and you could not see much of the ground. I was lucky to catch a glimpse as the terrain turned from Boreal forests to Tundra! Upon landing I was shuttled to inreasingly smaller aircraft and airports until arriving at the Space Center where we did a small tour, chatted with students from the University of Tromsø and Oslo. Time for bed for an early breakfast!
+
+{% include gal.html image="oslototromso.jpg" %}

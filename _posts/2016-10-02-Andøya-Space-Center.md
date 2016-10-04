@@ -5,9 +5,9 @@ description: CaNoRock Part Three
 keywords: 'CaNoRock, Norway, Andoya Space Center, Oslo'
 imgfolder: /assets/images/canorock
 images:
-  - name:
-    thumb:
-    text:
+  - name: null
+    thumb: null
+    text: null
 ---
 ## The Andøya Space Center and NAROM
 The ASC was started off in 1962 with the Ferdinand I rocket, placing Norway 4th among countries to reach space. Today over 1200 rockets

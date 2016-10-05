@@ -50,3 +50,5 @@ Wow, great food today, especially the Waffles. Must get pictures!!
 
 ## World Space Week
 CanNoRock XIII is the northernmost part of [World Space Week](http://www.worldspaceweek.org/). Check out all the other cool events!
+
+{% include gal.html %}

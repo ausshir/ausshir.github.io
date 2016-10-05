@@ -19,11 +19,11 @@ images:
     text: >-
       The ASC Launch Rail. This device tilts up and folds back the roof when
       launching a rocket.
-  - name: tour_science.jpg
-    thumb: tour_science.jpg
+  - name: tour_science_command.jpg
+    thumb: tour_science_command.jpg
     text: >-
-      Science mission room. Mission control, coms and the launch bunkers are not
-      shown.
+      Science mission command room. Mission control, coms and the launch bunkers
+      are not shown.
 ---
 ## Spaceship Aurora
 AS mentioned before, [NAROM](http://andoyaspace.no/?page_id=250) at the Andøya Space Center is focused on education and outreach for the Norwegian space programs. One of their major initiatives is a simulated manned mission called [Spaceship Aurora](http://www.spaceshipaurora.no/en) which is intended to teach school children the details of launching and supporting a real space mission.

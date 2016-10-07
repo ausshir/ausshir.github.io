@@ -32,3 +32,5 @@ The rocket is getting much closer to completion, and we were able to run out fir
 With a bit of spare time the Telemetry group set up an antenna and a USB Software Defined Radio to track NOAA sattelites. Due to the high lattitude 
 
 ## 4D Space and Orbital Physics
+
+## Swimming

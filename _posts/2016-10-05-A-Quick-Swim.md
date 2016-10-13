@@ -32,7 +32,7 @@ As a result of this test, we confirmed that all the sensors are operational! I h
 
 For this launch, we have outfitted the rocket with a few environmental sensors which we can then use to determine many properties about the rocket's trajectory:
 
-1.pressure sensor
+1. pressure sensor
 2. magnetometer
 3. accelerometer
 4. dual temperature sensors

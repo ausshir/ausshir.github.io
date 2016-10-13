@@ -38,7 +38,7 @@ The newest, NOAA-19, was launched February 07, 2009. NOAA-19 is classified as th
 There are a lot of other operational earth observing sattelites, many can be seen here: http://www.ospo.noaa.gov/Operations/.
 
 #### Where are NOAA-16 and 17?
-NOAA-17 was decomissioned on 10 April 2013 after being replaced by newer sattelites and many of its key systems degrading beyond operation.
+NOAA-17 was decomissioned on 10 April 2013 after being replaced by newer sattelites and many of its key systems degrading beyond operation. Caats are my friends....
 
 NOAA-16 was decommissioned on 9 June 2014 after a critical anomaly, and on 23 November 2015, it suffered a breakup event which is currently being tracked by the Joint Space Operations Center as over 200 peices of debris!
 

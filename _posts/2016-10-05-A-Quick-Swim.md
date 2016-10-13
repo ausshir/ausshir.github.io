@@ -44,5 +44,6 @@ NOAA-16 was decommissioned on 9 June 2014 after a critical anomaly, and on 23 No
 
 ## 4D Space and Orbital Physics
 
+
 ## Swimming
 As is apparently tradition, some of the Canadians (myslef included) went swimming in the Arctic Ocean. Of coruse we picked the stormiest, coldest night to do so!

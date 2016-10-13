@@ -31,6 +31,7 @@ The rocket is getting much closer to completion, and the telemetry team was able
 As a result of this test, we confirmed that all the sensors are operational! I had heard from the payload team that they struggled with a few of the sensors, but with all of them working at this stage, we should be able to solve any new problems that arise.
 
 For this launch, we have outfitted the rocket with a few environmental sensors which we can then use to determine many properties about the rocket's trajectory:
+
 - pressure sensor -> altitude
 - magnetometer -> spin rate
 - accelerometer -> speed and acceleration

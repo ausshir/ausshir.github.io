@@ -32,11 +32,11 @@ As a result of this test, we confirmed that all the sensors are operational! I h
 
 For this launch, we have outfitted the rocket with a few environmental sensors which we can then use to determine many properties about the rocket's trajectory:
 
-- pressure sensor -> altitude
-- magnetometer -> spin rate
-- accelerometer -> speed and acceleration
-- dual temperature sensors -> for gauging drag, or at least verifying the models
-- light sensor -> determining spin direction and orientation
+1.pressure sensor -> altitude
+2. magnetometer -> spin rate
+3. accelerometer -> speed and acceleration
+4. dual temperature sensors -> for gauging drag, or at least verifying the aerodynamic model
+5. light sensor -> determining spin direction and orientation
 
 The payload also transmits a signal that records the battery voltage and launch command for diagnostic purposes on the launchpad.
 
@@ -65,4 +65,3 @@ As is (what seems to be) tradition, some of us went swimming in the Arctic Ocean
 Not to brag, but I think I have been in colder lakes! I have also never been in the Atlantic/Artic ocean before and it was noticeably saltier. As it turns out [Western Canada has a very low salinity level compared to other parts of the world](https://www.nasa.gov/sites/default/files/images/591162main_pia14786-43_full.jpg)!
 
 This ocean [temperatures map](http://www.ospo.noaa.gov/data/sst/contour/global.c.gif) at the time of writing suggests the water was about 10 degrees Celsius, which seems to be appropriate. A big lake in Saskatchewan, Lake Diefenbaker [would be 6-10 degrees at the start of the camping season](http://wldb.ilec.or.jp/data/databook_html/nam/nam-58.html). I certainly wish there was a sauna on the beach!
-

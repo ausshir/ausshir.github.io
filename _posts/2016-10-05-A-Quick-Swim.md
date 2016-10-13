@@ -32,11 +32,11 @@ As a result of this test, we confirmed that all the sensors are operational! I h
 
 For this launch, we have outfitted the rocket with a few environmental sensors which we can then use to determine many properties about the rocket's trajectory:
 
-1.pressure sensor -> altitude
-2. magnetometer -> spin rate
-3. accelerometer -> speed and acceleration
-4. dual temperature sensors -> for gauging drag, or at least verifying the aerodynamic model
-5. light sensor -> determining spin direction and orientation
+1.pressure sensor
+2. magnetometer
+3. accelerometer
+4. dual temperature sensors
+5. light sensor
 
 The payload also transmits a signal that records the battery voltage and launch command for diagnostic purposes on the launchpad.
 

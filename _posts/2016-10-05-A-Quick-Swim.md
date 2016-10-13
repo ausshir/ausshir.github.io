@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 description: CaNoRock Part Four
 keywords: 'CaNoRock, Norway, Andoya Space Center, Oslo'

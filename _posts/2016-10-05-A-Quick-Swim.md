@@ -8,22 +8,6 @@ images:
   - name: aurora1.jpg
     thumb: aurora1.jpg
     text: Spaceship Aurora
-  - name: aurora2.jpg
-    thumb: aurora2.jpg
-    text: Spaceship Aurora
-  - name: tour_sign.jpg
-    thumb: tour_sign.jpg
-    text: Charred by rocket flames is the best way to have a sign.
-  - name: tour_launcher.jpg
-    thumb: tour_launcher.jpg
-    text: >-
-      The ASC Launch Rail. This device tilts up and folds back the roof when
-      launching a rocket.
-  - name: tour_science_command.jpg
-    thumb: tour_science_command.jpg
-    text: >-
-      Science mission command room. Mission control, coms and the launch bunkers
-      are not shown.
 ---
 ## Revisiting TM: Testing
 The rocket is getting much closer to completion, and the telemetry team was able to run the first system test. We did this by wiring up all sensors to the main computer board and radio card, and placing [Dummy Load](https://en.wikipedia.org/wiki/Dummy_load) on the antenna as an attenuator, as to not overload the receiver from too much gain.

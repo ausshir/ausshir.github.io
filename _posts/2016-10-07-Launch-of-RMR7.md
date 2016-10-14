@@ -14,11 +14,16 @@ We started the launch procedures by doing a quick overview of the countdown. We 
 The Main Telemetry station was already set up for our rocket, and a lot of the process is automated. The NAROM telemetry station had fully manual equipment, and so the students there had a much more involved job during launch.
 
 ## Delay in the Countdown
-All good projects can't go without a hitch, and ours had a nice big one in the last few minutes before launch! The payload team did not set the correct bit rate for data transmission, and since the student gear we tested is not sensitive enough to notice a difference, we did not notice it had to be corrected.
+All good projects can't go without a hitch, and ours had a nice big one in the last few minutes before launch! The payload was somehow set the incorrect bit rate for data transmission, and since the student gear we tested is not sensitive enough to notice a difference, we we were not able to get it corrected.
 
-At the Main Telemetry station, the recording equipment was reading out a bitrate of 262.5kBit/s but the specification read 250kBit/s. This difference was too large for the recording gear to synchronise with the incoming stream, and therefore was not able to decode the data frames. After reconfiguring all the recorders to the new bitrate, we were up and running again. Luckily a very straightforward solution to a problem that added just a bit of spice to the launch!
+At the Main Telemetry station, the recording equipment was reading out a bitrate of 262.5kBit/s well above the specification of 250kBit/s. This difference was too large for the recording gear to synchronise with the incoming stream, and therefore was not able to decode the data frames. After reconfiguring all the recorders to the new bitrate, we were up and running again. Luckily it was a very straightforward solution to a problem that added just a bit of spice to the launch!
 
 Overall the countdown was delayed about 10 minutes. Many people have the misconception that everyone is rushing to get the countdown done as soon as possible, but in practice, it is just the opposite! The countdown exists to make sure everything is given the appropriate amount of care and specifies the absolute minimum amount of time to do each task. If one part is delayed, the entire countdown is paused to let that task complete and keep everything synchronized.
+
+## Launch
+Loud and fast! I'll let this video do the talking.
+
+The launch lasted only 90 seconds, and my station confirmed it lost signal as the rocket plunged into the ocean. Now the science begins!
 
 ## Analysing Launch Results
 ### Anomaly

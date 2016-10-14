@@ -1,5 +1,13 @@
 ---
 published: true
+layout: post
+description: CaNoRock Part Four
+keywords: 'CaNoRock, Norway, Andoya Space Center, Oslo'
+imgfolder: /assets/images/canorock
+images:
+  - name: aurora1.jpg
+    thumb: aurora1.jpg
+    text: Spaceship Aurora
 ---
 ## Rocket Launch Logistics
 The day started off with a gathering of all students to discuss the launch. Group A (Numerical Simulation) focused on calculating a trajectory and launch angle by taking the weather into account, as well as giving us some predicted flight statistics. Next, group C (Payload) gave us a status report. As we had tested the day before, all the sensors were working well, and now everything was fully assembled, balanced, and decorated.

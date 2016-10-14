@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Rocket Launch Logistics
 The day started off with a gathering of all students to discuss the launch. Group A (Numerical Simulation) focused on calculating a trajectory and launch angle by taking the weather into account, as well as giving us some predicted flight statistics. Next, group C (Payload) gave us a status report. As we had tested the day before, all the sensors were working well, and now everything was fully assembled, balanced, and decorated.

@@ -39,7 +39,7 @@ The telemetry groups main task was to ensure all data was collected and archived
 Because most atmospheric pressure derived from the weight of the air above the point of measurement (also referred to as hydrostatic pressure), it is straightforward to determine your altitude. Pressure varies smoothly from the Earth's surface all the way to the top of the mesosphere and is the standard method of determining aircraft altitude. For altitudes below 11km, it can be much more accurate than consumer GPS solutions as well.
 
 ### Anomaly
-When going through our recorded data, most of the teams noticed a small glitch at approximately 1 second after launch. After looking closely at the launch video, we identified a small piece of flaming debris exit the rocket.
+While going through our recorded data, most of the teams noticed a small glitch at approximately 1 second after launch. After looking closely at the launch video, we identified a small piece of flaming debris exit the rocket.
 
 As seen in this [old-school research paper](http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=AD0596285) or a [much more recent one](http://my.fit.edu/~chintals/index_files/A32358.pdf), rocket exhaust (ionised gas) has a significant impact on both attenuation of radio signals and wideband noise generation. The net effect of this is the auto-tracking antennas lost connection with the rocket's transmitters and then locked onto the RF power from the flaming debris for a split second. It recovered quickly, but we did lose a few frames of diagnostic data during launch.
 

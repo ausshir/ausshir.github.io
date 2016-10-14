@@ -9,7 +9,7 @@ The flight was expected to take approximately 90 seconds, and reach an altitude 
 Of course, we still had to name the rocket. As this was a group of  goofy physics nerds, we were more interested in making a good joke than anything else. [Unencumbered](https://www.theguardian.com/environment/2016/apr/17/boaty-mcboatface-wins-poll-to-name-polar-research-vessel) by [common sense](http://www.bbc.com/news/uk-36225652), we chose the name Rockety McRocketface by a narrow margin. Other great options were [ICI-7](https://www.mn.uio.no/fysikk/english/research/projects/ici/) to tease the Universtiy of Oslo's upcoming project, or [Up-Goer-7](https://xkcd.com/1133/) fro, the webcomic XKCD.
 
 ## The Launch
-
+We started the launch procedures by running through the countdown. We were using the official Andoya process, which is approximately the same as the one NASA uses (NASA launches research rockets at ASC as well http://andoyaspace.no/?p=2099)
 
 ## Analysing Launch Results
 ### Anomaly

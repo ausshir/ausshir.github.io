@@ -5,9 +5,14 @@ description: CaNoRock Part Four
 keywords: 'CaNoRock, Norway, Andoya Space Center, Oslo'
 imgfolder: /assets/images/canorock
 images:
-  - name: aurora1.jpg
-    thumb: aurora1.jpg
-    text: Spaceship Aurora
+  - name: installing_sensors.jpg
+    thumb: installing_sensors.jpg
+    text: Installing sensors in the rocket payload.
+  - name: adjusting_tm.jpg
+    thumb: adjusting_tm.jpg
+    text: >-
+      Adjusting settings on the telemetry hardware to tune into the rocket
+      payload signal.
 ---
 ## Revisiting TM: Testing
 The rocket is getting much closer to completion, and the telemetry team was able to run the first system test. We did this by wiring up all sensors to the main computer board and radio card, and placing a [Dummy Load](https://en.wikipedia.org/wiki/Dummy_load) on the antenna as an attenuator, as to not overload the receiver from too much gain.

@@ -12,6 +12,9 @@ images:
 ## Revisiting TM: Testing
 The rocket is getting much closer to completion, and the telemetry team was able to run the first system test. We did this by wiring up all sensors to the main computer board and radio card, and placing a [Dummy Load](https://en.wikipedia.org/wiki/Dummy_load) on the antenna as an attenuator, as to not overload the receiver from too much gain.
 
+{% include gal.html image="installing_sensors.jpg" %}
+{% include gal.html image="adjusting_tm.jpg" %}
+
 As a result of this test, we confirmed that all the sensors are operational! I had heard from the payload team that they struggled with a few of the sensors, but with all of them working at this stage, we should be able to solve any new problems that arise.
 
 For this launch, we have outfitted the rocket with a few environmental sensors which we can then use to determine many properties about the rocket's trajectory:

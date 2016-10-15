@@ -5,32 +5,18 @@ description: CaNoRock Part One
 keywords: 'CaNoRock, Norway, Andoya Space Center'
 ---
 ## Off to CaNoRock
-For the a week between September 30 and October 8, 2016 I am attending an a student
-collaboration between Canada and Norway to build and test a research sounding rocket.
-All you need to know is in the name!
+For a week between September 30 and October 8, 2016 I am attending a student collaboration between Canada and Norway to build and test a research sounding rocket. All you need to know is in the name!
 
-The event takes place at the Andoya Space Center in Andennes, Norway. This is a
-rocket range which also takes part in High Altitude Balloon experiments and other
-space-based research. No doubt this will be an intense week, but my goal is to
-keep the entire project documented, with a bit of focus on the interesting details
-along the way.
+The event takes place at the Andoya Space Center in Andenes, Norway. This is a rocket range which also takes part in High Altitude Balloon Experiments and other space-based research. No doubt this will be an intense week, but my goal is to keep the entire project documented, with a bit of focus on the interesting details along the way.
 
 ### Programming Your Travel
-This time around I do not need to take care of all the booking details, but the
-nature of the trip leaves tiny bursts of free time interspersed between intense
-projects. To make the most of my time I thought I'd try out the new Google Trips
-app, which just made it's official transition from Inbox to a standalone tool and
-[seems to be targeted directly at me](https://googleblog.blogspot.no/2016/09/see-more-plan-less-try-google-trips.html)!
+This time around I do not need to take care of all the booking details, but the nature of the trip leaves tiny bursts of free time interspersed between intense projects. To make the most of my time I thought I'd try out the new Google Trips app, which just made it's official transition from Inbox to a standalone tool and [seems to be targeted directly at me](https://googleblog.blogspot.no/2016/09/see-more-plan-less-try-google-trips.html)!
 
 <img align="right" src="https://3.bp.blogspot.com/-ck_mwUQmsY4/V9x944vTcxI/AAAAAAAAS_A/gJDda7S3r1MNvpc6ipdcaYTULiu_Pf1vQCLcB/s1600/06_61_combo.png" alt="ME" style="width:250px; padding:5px;"/>
 
-A very useful feature of Google Trips is the ability for it to scan metadata or
-schemas from your reservation emails. There is a vaguely standard format for This
-metadata but Google claims it should just work (and it has for me in the past).
+A very useful feature of Google Trips is the ability for it to scan metadata or schemas from your reservation emails. There is a vaguely standard format for this metadata but Google claims it should just work (and it has for me in the past).
 
-Unfortunately, I haven't made any personal bookings for this trip and had no emails
-for it to scan! Furthermore, Google decided users didn't need the feature to manually
-input trip bookings. Thankfully there's a [terribly complicated hack](http://www.scottgreenstone.com/2016/03/manuallycreatetrips.html) from Scott Greenstone!
+Unfortunately, I haven't made any personal bookings for this trip and had no emails for it to scan! Furthermore, Google decided users didn't need the feature to manually input trip bookings. Thankfully there's a [terribly complicated hack](http://www.scottgreenstone.com/2016/03/manuallycreatetrips.html) from Scott Greenstone!
 
 One of my flight bookings looked like this:
 
@@ -91,13 +77,11 @@ One of my flight bookings looked like this:
       </body>
     </html>
 
-*Was it worth it? Apart from the offline trip guides, probably not.. ;)*
+*Was it worth it? Apart from the offline trip guides, probably not... ;)*
 
 ### To the skies!
 Despite a two hour delay due to A/C issues in the overseas Calgary-London flight, all
-connections seemd to meet up and I arrived in Oslo just in time! There were some lovely
-and interesting views from some of the flights, and there's even more to come. The Scaninavian
-Airlines pilots sure aren't afraid to pull serious G's on takeoff!
+connections seemed to meet up and I arrived in Oslo just in time! There were some lovely and interesting views from some of the flights, and there's even more to come. The Scandinavian Airlines pilots sure aren't afraid to pull serious Gs on takeoff!
 
 ### Oslo Mystery Museum
 
